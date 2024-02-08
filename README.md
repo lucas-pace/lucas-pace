@@ -3,7 +3,7 @@ I'm Lucas de Pace Ribeiro, a Fullstack Developer based in Juiz de Fora, Brazil.
 
 - 🎓 Postgraduate in Software Engineering from PUC Minas
 - 🎓 Bachelor of Computer Science from Federal University of Juiz de Fora
-- 🚀 Currently seeking exciting opportunities in PHP and Laravel development.
+- 🚀 Currently seeking exciting opportunities in PHP, Laravel development and CyberSecurity.
 
 ## Skills
 - **Backend Development:**
