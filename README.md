@@ -7,7 +7,7 @@ I'm Lucas de Pace Ribeiro, a Fullstack Developer based in Juiz de Fora, Brazil.
 
 ## Skills
 - **Backend Development:**
-  - 💻 PHP, Laravel, Python, Java
+  - 💻 PHP, Laravel, Python
   - ⚙️ AWS (S3, EC2, ElasticBeanstalk, RDS, CloudWatch)
   - 🗃️ MySQL, SQLite, MongoDB
   - 🛠️ Git
