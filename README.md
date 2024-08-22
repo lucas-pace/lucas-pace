@@ -22,6 +22,12 @@ I'm Lucas de Pace Ribeiro, a Fullstack Developer based in Juiz de Fora, Brazil.
 
 ## Work Experience
 
+### PD Case - Full Stack Developer
+- **Period:** 02/2024 – Now
+- **Responsibilities:**
+  - Designed and developed software aimed at enhancing operational and administrative activities for the fire department in the state of Minas Gerais, focusing on improving response times and resource management.
+  - Working with PHP, Laravel, Livewire, Filament and GitLab CI/CD. 
+
 ### PL USA CrossBorder - Full Stack Developer
 - **Period:** 06/2019 – 12/2023
 - **Responsibilities:**
