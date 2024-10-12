@@ -63,6 +63,6 @@ I'm Lucas de Pace Ribeiro, a Fullstack Developer based in Juiz de Fora, Brazil.
 - Ethereum 101 - Moralis Academy
 
 ## Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/lucas-pace)
+- [LinkedIn](https://www.linkedin.com/in/lucas-pace-bb5710170/)
 - **More:** [LinkTree](https://linktr.ee/lucaspace)
   
